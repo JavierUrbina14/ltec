@@ -17,7 +17,7 @@ export const CharacterPage = () => {
                         <CharacterBasicInfo name={name} gender={gender} birth_year={birth_year} planeta={planeta?.name} />
                     </Grid>
                     <Grid item>
-                        <img src={`/public/img/person-placeholder.webp`} alt={name} width="auto" height="200" />
+                        <img src={`/img/person-placeholder.webp`} alt={name} width="auto" height="200" />
                     </Grid>
                 </Grid>
                 <Grid item container justifyContent="center" alignItems="center" marginTop={"2rem"}>
