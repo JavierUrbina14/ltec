@@ -1,0 +1,10 @@
+body {
+    background-color: #e3dede !important;
+}
+
+.neuphorm {
+    border-radius: 12px;
+    background: #e3dede;
+    box-shadow: 20px 20px 60px #c1bdbd,
+        -20px -20px 60px #ffffff;
+}
